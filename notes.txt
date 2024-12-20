@@ -1,0 +1,6 @@
+### DB
+MONGODB_URI='mongodb+srv://callasteven:4184Longview@cluster0.x8hemhd.mongodb.net/word-guess'
+
+### URLs
+https://work-guess-game.onrender.com
+https://work-guess-game-staging.onrender.com
